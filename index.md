@@ -1,5 +1,6 @@
 <h1>Welcome to BlackstoneCoin Exchange</h1>
-<p>BlackstoneCoin is an ETH-backed cryptocurrency. It is an ERC-20 token that exists solely on the Ethereum network.<br.
+<p>If you want to skip the info and go straight to the app, [click here](https://thresdend.github.io/BlackstoneCoin-Exchange/).<br>
+BlackstoneCoin is an ETH-backed cryptocurrency. It is an ERC-20 token that exists solely on the Ethereum network.<br>
 
 Each BlackstoneCoin is redeemable for 0.01 ETH. There are only 1 million BlackstoneCoins in existence.<br>
 
